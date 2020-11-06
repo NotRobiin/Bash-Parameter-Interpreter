@@ -1,5 +1,5 @@
 # Bash-Parameter-Interpreter
-Simple script that essentially does three things:
+Simple script that essentially does four things:
 - Moves to directory from which the script was called (cd ..)
 - Adds unstaged files (git add .)
 - Commits files (git commit -m)
